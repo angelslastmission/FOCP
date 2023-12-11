@@ -1,0 +1,9 @@
+Python Standard Library: The Python Standard Library is a vast collection of pre-written modules and packages that come bundled with Python.
+
+Formal Parameters: Formal parameters in programming are placeholders within a function's definition that represent the data that the function expects to receive when it's called
+
+Actual Parameters (argument values): Actual parameters are the argument values that are passed to a function when it is called. These values are assigned to the corresponding formal parameters in the function or method definition.
+
+Default and Keyword Arguments: Default arguments are arguments that have default values assigned to them in the function or method definition. When the function or method is called, if no argument value is provided for a default argument, then the default value will be used. Keyword arguments are arguments that are passed to a function or method by name. This allows the arguments to be passed in any order, rather than having to be passed in the order in which the formal parameters are defined.
+
+Lambda Expression: A lambda expression in Python is a quick way to create small, anonymous functions in a single line of code.

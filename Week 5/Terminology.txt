@@ -1,0 +1,9 @@
+IDE   IDEs (Integrated Development Environments) are software applications that provide comprehensive tools for software development, combining features like text editors, debugging, version control, and often include support for multiple languages.
+
+Module    Modules are files containing Python code that can be imported into other programs, enabling code reuse and organization by encapsulating functionality.
+
+Command Line Arguments   Command Line Arguments are inputs provided to a program when it's executed from the command line, allowing users to pass values or options to the program. 
+
+Symbol-table   The symbol table is an internal Python data structure that stores information about identifiers in a program, mapping names to the objects they reference in memory, enabling access and management of variables, functions, classes, and other entities within the program's scope.
+
+Search path   The search path in Python, represented by sys.path, is a list of directories where Python looks for modules and packages, aiding in locating and importing code when using import statements or executing scripts.   

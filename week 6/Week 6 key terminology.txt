@@ -1,0 +1,9 @@
+Method- A method is a function that is associated with an object or a class. It represents a behavior or an action that an object can perform
+
+List Comprehension- List comprehension is a concise and elegant way to create lists in Python. It allows you to create lists based on existing iterables (such as lists, tuples, strings, etc.) and perform operations or apply conditions while constructing the new list. 
+
+Tuple- A tuple in is an ordered collection of elements, similar to a list.They are immutable, meaning their elements cannot be changed or modified after the tuple is created
+
+Tuple meaning- Tuple packing refers to the process of creating a tuple by collecting multiple values or objects together, usually separated by commas. When values are separated by commas without enclosing them in parentheses, Python automatically creates a tuple.
+
+Sequence unpacking- Sequence unpacking, also known as tuple unpacking, refers to the process of extracting individual elements or values from a sequence, such as a tuple, list, or any iterable, and assigning them to multiple variables in a single assignment statement.

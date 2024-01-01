@@ -1,0 +1,9 @@
+Set-a set is a built-in data structure used to store a collection of unique and unordered elements. It is defined by enclosing elements within curly braces {}, separated by commas.
+
+Set operations-Set operations involve combining, comparing, or manipulating sets. They include actions like combining sets (union), finding shared elements (intersection), finding unique elements (difference), and comparing sets for similarity or difference.
+
+Set Comprehension-Set comprehension is a concise way to create sets in Python by applying a formula or condition to each element in an iterable. 
+
+Dictionary-A dictionary is a collection of data that stores elements as key-value pairs. It enables quick retrieval of values based on their associated unique keys.
+
+key-value pair-A key-value pair is a fundamental concept in data organization, often used in structures like dictionaries. It consists of two linked elements: a unique identifier called the "key" and the associated data known as the "value
